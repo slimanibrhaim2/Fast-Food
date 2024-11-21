@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood.Web", "FastFood.Web\FastFood.Web.csproj", "{06F4609A-504F-4C0E-AA6D-09F20A217E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood.Models", "FastFood.Models\FastFood.Models.csproj", "{BEC1E2CC-A621-47B6-ACB5-44E99E4DD753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood.Repositry", "FastFood.Repositry\FastFood.Repositry.csproj", "{F06352D9-7528-47B2-B64C-9ADAC57DFFA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFood.Services", "FastFood.Services\FastFood.Services.csproj", "{5CA59986-2CE3-4AB8-AE27-23F68C97F7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06F4609A-504F-4C0E-AA6D-09F20A217E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F4609A-504F-4C0E-AA6D-09F20A217E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F4609A-504F-4C0E-AA6D-09F20A217E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F4609A-504F-4C0E-AA6D-09F20A217E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC1E2CC-A621-47B6-ACB5-44E99E4DD753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC1E2CC-A621-47B6-ACB5-44E99E4DD753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC1E2CC-A621-47B6-ACB5-44E99E4DD753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC1E2CC-A621-47B6-ACB5-44E99E4DD753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06352D9-7528-47B2-B64C-9ADAC57DFFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06352D9-7528-47B2-B64C-9ADAC57DFFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06352D9-7528-47B2-B64C-9ADAC57DFFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06352D9-7528-47B2-B64C-9ADAC57DFFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CA59986-2CE3-4AB8-AE27-23F68C97F7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA59986-2CE3-4AB8-AE27-23F68C97F7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA59986-2CE3-4AB8-AE27-23F68C97F7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA59986-2CE3-4AB8-AE27-23F68C97F7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
